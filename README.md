@@ -1,2 +1,2 @@
 # Flutter_code_samples
-Sample codes from my previous projects
+This repo contains code samples.
